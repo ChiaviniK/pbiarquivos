@@ -1,0 +1,101 @@
+ID,Data do Serviço,Cliente,Cidade,Bairro,Valor,Colaborador
+1,2022-03-25,Cliente 1,Rio de Janeiro,Bairro 11,1614.25,Colaborador 9
+2,2022-07-21,Cliente 2,Rio de Janeiro,Bairro 9,1208.18,Colaborador 6
+3,2022-06-03,Cliente 3,São Paulo,Bairro 14,319.94,Colaborador 5
+4,2022-01-27,Cliente 4,Rio de Janeiro,Bairro 15,876.09,Colaborador 9
+5,2022-10-26,Cliente 5,Porto Alegre,Bairro 16,220.41,Colaborador 4
+6,2022-09-09,Cliente 6,Salvador,Bairro 7,1341.67,Colaborador 2
+7,2022-11-03,Cliente 7,São Paulo,Bairro 10,336.19,Colaborador 8
+8,2022-07-22,Cliente 8,Rio de Janeiro,Bairro 5,794.32,Colaborador 7
+9,2022-08-05,Cliente 9,São Paulo,Bairro 9,1143.54,Colaborador 6
+10,2022-12-12,Cliente 10,Porto Alegre,Bairro 3,464.04,Colaborador 8
+11,2022-11-25,Cliente 11,São Paulo,Bairro 6,1648.74,Colaborador 10
+12,2022-11-19,Cliente 12,Salvador,Bairro 20,1623.88,Colaborador 3
+13,2022-11-14,Cliente 13,São Paulo,Bairro 16,1881.44,Colaborador 7
+14,2022-04-01,Cliente 14,São Paulo,Bairro 17,233.55,Colaborador 7
+15,2022-03-07,Cliente 15,Belo Horizonte,Bairro 3,1410.63,Colaborador 2
+16,2022-10-20,Cliente 16,Salvador,Bairro 1,927.36,Colaborador 2
+17,2022-05-29,Cliente 17,Belo Horizonte,Bairro 10,1394.27,Colaborador 9
+18,2022-05-27,Cliente 18,Porto Alegre,Bairro 14,459.23,Colaborador 9
+19,2022-12-06,Cliente 19,Rio de Janeiro,Bairro 5,888.23,Colaborador 2
+20,2022-06-01,Cliente 20,Rio de Janeiro,Bairro 4,1523.17,Colaborador 4
+21,2022-02-21,Cliente 21,São Paulo,Bairro 20,1662.69,Colaborador 6
+22,2022-09-20,Cliente 22,Belo Horizonte,Bairro 5,300.89,Colaborador 3
+23,2022-02-05,Cliente 23,São Paulo,Bairro 15,1487.32,Colaborador 10
+24,2022-08-26,Cliente 24,São Paulo,Bairro 14,1503.54,Colaborador 9
+25,2022-12-10,Cliente 25,Belo Horizonte,Bairro 14,1111.57,Colaborador 8
+26,2022-01-23,Cliente 26,Salvador,Bairro 5,1607.76,Colaborador 5
+27,2022-11-08,Cliente 27,São Paulo,Bairro 11,603.0,Colaborador 4
+28,2022-04-20,Cliente 28,Porto Alegre,Bairro 20,389.9,Colaborador 1
+29,2022-08-05,Cliente 29,Salvador,Bairro 5,1831.94,Colaborador 5
+30,2022-11-05,Cliente 30,Salvador,Bairro 5,896.53,Colaborador 7
+31,2022-10-31,Cliente 31,Salvador,Bairro 10,1293.05,Colaborador 8
+32,2022-06-19,Cliente 32,São Paulo,Bairro 6,899.6,Colaborador 6
+33,2022-02-25,Cliente 33,Salvador,Bairro 1,1572.76,Colaborador 3
+34,2022-06-14,Cliente 34,São Paulo,Bairro 20,210.01,Colaborador 8
+35,2022-10-24,Cliente 35,São Paulo,Bairro 12,431.44,Colaborador 5
+36,2022-11-13,Cliente 36,Salvador,Bairro 15,1162.6,Colaborador 6
+37,2022-12-21,Cliente 37,Salvador,Bairro 11,1466.68,Colaborador 2
+38,2022-04-15,Cliente 38,Porto Alegre,Bairro 12,796.93,Colaborador 4
+39,2022-02-25,Cliente 39,Belo Horizonte,Bairro 4,1379.98,Colaborador 2
+40,2022-01-13,Cliente 40,Belo Horizonte,Bairro 9,1812.5,Colaborador 9
+41,2022-09-05,Cliente 41,Salvador,Bairro 15,430.58,Colaborador 7
+42,2022-12-26,Cliente 42,Rio de Janeiro,Bairro 19,321.22,Colaborador 10
+43,2022-01-12,Cliente 43,Salvador,Bairro 10,1114.24,Colaborador 2
+44,2022-03-24,Cliente 44,Porto Alegre,Bairro 17,921.24,Colaborador 3
+45,2022-04-11,Cliente 45,São Paulo,Bairro 13,492.51,Colaborador 5
+46,2022-12-30,Cliente 46,Rio de Janeiro,Bairro 13,652.99,Colaborador 9
+47,2022-12-06,Cliente 47,São Paulo,Bairro 12,594.37,Colaborador 8
+48,2022-06-14,Cliente 48,Salvador,Bairro 8,1470.29,Colaborador 4
+49,2022-02-02,Cliente 49,Salvador,Bairro 13,1165.79,Colaborador 10
+50,2022-06-26,Cliente 50,São Paulo,Bairro 3,563.81,Colaborador 7
+51,2022-08-19,Cliente 51,Porto Alegre,Bairro 8,623.36,Colaborador 2
+52,2022-12-21,Cliente 52,Belo Horizonte,Bairro 8,1539.39,Colaborador 4
+53,2022-03-24,Cliente 53,Belo Horizonte,Bairro 14,824.62,Colaborador 7
+54,2022-08-18,Cliente 54,Rio de Janeiro,Bairro 13,537.36,Colaborador 7
+55,2022-06-08,Cliente 55,Belo Horizonte,Bairro 1,1254.85,Colaborador 1
+56,2022-05-27,Cliente 56,Belo Horizonte,Bairro 14,1638.54,Colaborador 8
+57,2022-09-06,Cliente 57,Porto Alegre,Bairro 17,423.04,Colaborador 8
+58,2022-11-13,Cliente 58,Salvador,Bairro 19,667.37,Colaborador 5
+59,2022-07-20,Cliente 59,Porto Alegre,Bairro 7,1781.15,Colaborador 1
+60,2022-08-28,Cliente 60,Belo Horizonte,Bairro 20,1507.86,Colaborador 9
+61,2022-08-14,Cliente 61,Salvador,Bairro 4,330.56,Colaborador 8
+62,2022-08-16,Cliente 62,Rio de Janeiro,Bairro 19,770.63,Colaborador 3
+63,2022-10-25,Cliente 63,São Paulo,Bairro 7,818.08,Colaborador 2
+64,2022-01-08,Cliente 64,Porto Alegre,Bairro 16,332.3,Colaborador 10
+65,2022-01-12,Cliente 65,Salvador,Bairro 1,276.18,Colaborador 4
+66,2022-03-29,Cliente 66,Salvador,Bairro 11,880.17,Colaborador 2
+67,2022-05-31,Cliente 67,Porto Alegre,Bairro 10,1596.71,Colaborador 10
+68,2022-03-08,Cliente 68,Salvador,Bairro 2,1653.53,Colaborador 2
+69,2022-07-15,Cliente 69,Salvador,Bairro 7,1522.97,Colaborador 9
+70,2022-03-16,Cliente 70,Porto Alegre,Bairro 9,939.02,Colaborador 9
+71,2022-12-12,Cliente 71,Porto Alegre,Bairro 1,1951.44,Colaborador 7
+72,2022-05-28,Cliente 72,Belo Horizonte,Bairro 11,1983.7,Colaborador 8
+73,2022-02-10,Cliente 73,São Paulo,Bairro 16,1743.55,Colaborador 8
+74,2022-02-16,Cliente 74,Salvador,Bairro 11,280.43,Colaborador 2
+75,2022-01-24,Cliente 75,São Paulo,Bairro 15,336.28,Colaborador 3
+76,2022-08-25,Cliente 76,Belo Horizonte,Bairro 12,603.08,Colaborador 3
+77,2022-05-19,Cliente 77,Belo Horizonte,Bairro 7,652.15,Colaborador 2
+78,2022-05-21,Cliente 78,Rio de Janeiro,Bairro 17,1358.93,Colaborador 1
+79,2022-06-28,Cliente 79,Belo Horizonte,Bairro 10,277.03,Colaborador 10
+80,2022-06-17,Cliente 80,Rio de Janeiro,Bairro 19,285.74,Colaborador 6
+81,2022-06-20,Cliente 81,Rio de Janeiro,Bairro 8,1103.52,Colaborador 3
+82,2022-06-23,Cliente 82,Belo Horizonte,Bairro 20,1454.26,Colaborador 2
+83,2022-02-15,Cliente 83,Salvador,Bairro 20,514.09,Colaborador 5
+84,2022-11-01,Cliente 84,Belo Horizonte,Bairro 8,927.2,Colaborador 10
+85,2022-07-07,Cliente 85,Rio de Janeiro,Bairro 3,1134.13,Colaborador 6
+86,2022-06-18,Cliente 86,Salvador,Bairro 14,659.74,Colaborador 3
+87,2022-03-13,Cliente 87,São Paulo,Bairro 20,265.9,Colaborador 5
+88,2022-02-28,Cliente 88,São Paulo,Bairro 15,1332.57,Colaborador 2
+89,2022-04-17,Cliente 89,Porto Alegre,Bairro 19,891.09,Colaborador 6
+90,2022-01-23,Cliente 90,Salvador,Bairro 3,1489.97,Colaborador 6
+91,2022-04-28,Cliente 91,Rio de Janeiro,Bairro 6,1275.03,Colaborador 4
+92,2022-10-21,Cliente 92,Belo Horizonte,Bairro 17,1057.05,Colaborador 7
+93,2022-09-20,Cliente 93,Rio de Janeiro,Bairro 10,1518.36,Colaborador 2
+94,2022-05-24,Cliente 94,Rio de Janeiro,Bairro 18,346.32,Colaborador 6
+95,2022-05-15,Cliente 95,Salvador,Bairro 16,1954.56,Colaborador 4
+96,2022-02-09,Cliente 96,Belo Horizonte,Bairro 19,587.46,Colaborador 4
+97,2022-02-22,Cliente 97,Porto Alegre,Bairro 11,801.34,Colaborador 7
+98,2022-12-10,Cliente 98,Salvador,Bairro 14,1724.0,Colaborador 5
+99,2022-05-07,Cliente 99,São Paulo,Bairro 4,561.67,Colaborador 8
+100,2022-10-01,Cliente 100,Porto Alegre,Bairro 12,1897.47,Colaborador 5
